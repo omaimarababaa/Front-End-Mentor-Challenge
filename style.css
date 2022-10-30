@@ -59,6 +59,9 @@ body {
   margin-top: 2%;
   margin-left: 2%;
 }
+.opacityProfile {
+  opacity: 50%;
+}
 .profileName > * {
   font-size: 9px;
   margin: 2px;
